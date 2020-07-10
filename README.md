@@ -1,2 +1,4 @@
 # New-Repository
-My first git class
+Hi Dipika!
+
+This is Vikash. I love coding
